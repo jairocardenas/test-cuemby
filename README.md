@@ -1,6 +1,6 @@
 # Online-payment
 > Challenge of Cuemby. This project was developed applying an architecture based on DDD, in which the core is completely separated from the main.
-
+> You can visit in https://test-cuemby-jacm.herokuapp.com/swagger-ui.html
 ## Table of contents
 * [Technologies](#technologies)
 * [How it work](#how-work)
@@ -33,7 +33,7 @@ mvn package
 mvn spring-boot:run
 ```
 
-* Then service run on http://localhost:8080/api/swagger-ui-html
+* Then service run on http://localhost:8080/swagger-ui.html
 
 ### **2. Docker. First, you need to install docker**
 
