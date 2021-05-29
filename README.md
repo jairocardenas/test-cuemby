@@ -18,7 +18,7 @@
 ### **1. Environment variables**
 * Clone the repository:
 ```bash
-git clone https://github.com/
+git clone https://github.com/jairocardenas/test-cuemby
 ```
 * Rename .env.example file to .env
 * Edit APPLICATION_ROOT_FOLDER with the location where to clone the repository
